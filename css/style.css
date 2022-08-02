@@ -22,7 +22,7 @@ a, a:hover{
 
 .header{
 	width: 100%;
-	float: left;
+	min-height: 130px;
 	background: grey;
 	padding: 10px 0px;
 }
