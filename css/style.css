@@ -1,0 +1,120 @@
+*{
+	padding: 0px;
+	margin: 0px;
+}
+
+body{
+	font-family: serif;
+	font-size: 14px;
+	line-height: 24px;
+	width: 100%;
+
+}
+
+h1,h2,h3,h4,h5,h6{
+	font-family: sans-serif;
+
+}
+
+a, a:hover{
+	text-decoration: none;
+}
+
+.header{
+	width: 100%;
+	float: left;
+	background: grey;
+	padding: 10px 0px;
+}
+.container{
+    width: 1140px;
+    margin: 0px auto;
+}
+.container .logo{
+    width: 20%;
+    float: left;
+}
+.container .menu{
+    width: 80%;
+    float: left;
+
+}
+
+.banner{
+	margin: 20px;
+	padding: 20px;
+}
+
+.banner .box1 h2{
+	margin: 150px;
+}
+
+
+.box1{
+	width: 50%;
+	float: left; 
+
+}
+
+.box2{
+	width: 50%;
+	float: left; 
+
+}
+
+.navbar{
+	width: 100%;
+	float: left;
+	display: block;
+	text-align: right;
+
+}
+
+.navbar li{
+	list-style: none;
+	display: inline-block;
+}
+
+.navbar li a{
+	font-size: 18px;
+	line-height: 95px;
+	text-transform: uppercase;
+	font-weight:600;
+	margin: 0px 20px;
+	color:#5900b3;
+}
+
+.navbar li a:hover{
+	color: white;
+}
+
+.service{
+	margin: 20px;
+	padding: 20px;
+	background-color: pink;
+}
+
+
+.footer{
+	width: 100%;
+	float: left;
+	padding: 20px 0px;
+	text-align: center;
+	display: flex;
+    justify-content: center;
+	background-color: #0a1730;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
